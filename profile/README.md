@@ -2,9 +2,9 @@
 
 | ![carrion](https://github.com/user-attachments/assets/97b6f7b9-7d19-41cb-bc69-e6b4e8da6c76) | [![download-now](https://github.com/user-attachments/assets/22657e67-9d2d-46af-a41a-5d365d2ddc1f)](https://heyapks.com/) |
 |:-------------------------------------------------:|-----------------------|
-| Platform:                    | Version: 1.0.35    |
-| size: 145.99 Mb                               | ⭐️⭐️⭐️⭐️⭐️ (5/5) |
-| Latest Update: 19/11/2024                      | Category : Action
+| Platform:                                         | Version: 1.0.35    |
+| size: 145.99 Mb                                   | ⭐️⭐️⭐️⭐️⭐️ (5/5) |
+| Latest Update: 19/11/2024                         | Category : Action
 
 ## 🕷️ What is Carrion Mod APK?
 
